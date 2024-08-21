@@ -6,7 +6,8 @@
 </div>
 <div align="center">
     <p>
-      <iframe src="https://giphy.com/embed/KGMzZvWa5su2O5LCVR" width="480" height="461" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Clarin--transparent-KGMzZvWa5su2O5LCVR">via GIPHY</a></p>
+     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif"/>   
+    </p>
 </div>
 <div align="center">
     <h2> About Me 💕</h2>
